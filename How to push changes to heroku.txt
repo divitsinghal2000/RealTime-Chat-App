@@ -1,4 +1,0 @@
-in terminal -> go to server
-git add .
-git commit -m "another one"
-git push heroku master
