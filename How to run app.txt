@@ -1,0 +1,5 @@
+In terminal -> go to client
+npm run build
+netlify deploy
+./build
+you will get the draft URL
